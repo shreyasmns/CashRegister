@@ -14,7 +14,7 @@ FILES:
 				  --CashRegister.java [Base Class]
 		------Implementation:
 				  --CashRegisterImplementation.java
-	    ------Logger:
+	        ------Logger:
 				  --Logger.java (Not used, since printing only output to console)
 		------util:
 				  --Constants.java
